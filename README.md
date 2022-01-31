@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sTunahan&show_icons=true&&bg_color=DEG,FFE8D6,DDBEA9&title_color=aa767c&icon_color=7B3E19&border_color=A5A58D&text_color=6B705C)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sTunahan&layout=compact)](https://github.com/sTunahan/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sTunahan&layout=compact&&bg_color=DEG,FFE8D6,DDBEA9&title_color=aa767c&icon_color=7B3E19&border_color=A5A58D&text_color=6B705C,)](https://github.com/sTunahan/github-readme-stats&theme=radical)
+
+##
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sTunahan&&bg_color=fffff0&color=708090&line=6B705C&point=6B705C&area=true&hide_border=true)](https://github.com/sTunahan/github-readme-activity-graph)
 
 ##
 
