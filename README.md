@@ -37,6 +37,3 @@ Here are some ideas to get you started:
 ##
 
 ![snake gif](https://github.com/sTunahan/sTunahan/blob/output/github-contribution-grid-snake.gif)
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sTunahan&&bg_color=fffff0&color=708090&line=6B705C&point=6B705C&area=true&hide_border=true)](https://github.com/sTunahan/github-readme-activity-graph)
